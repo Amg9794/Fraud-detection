@@ -1,6 +1,6 @@
 # Fintech-Fraud-Detection
 This repository contains a machine learning project aimed at detecting fraudulent transactions in fintech banking systems. The project encompasses various stages including data preprocessing, feature engineering, model selection, training, and evaluation to build a robust fraud detection system. <br>
-The project was developed for the Machine Learning with Large Datasets course at IISc Bangalore in 2024.
+The project was developed for the Machine Learning for Data Science (DS 216) course at IISc Bangalore in 2024.
 
 **<h4>🛠️ Features:</h4>**
 - **Data Preprocessing:** Handling missing values, normalization, and transformation of financial transaction data.
